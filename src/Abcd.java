@@ -5,7 +5,7 @@ public class Abcd
         public static void main(String[] args )
         {
             System.out.print("Enter two numbers: ");
-            Scanner obj = new Scanner(System.in);
+            Scanner i = new Scanner(System.in);
             double a = obj.nextDouble();
             double b = obj.nextDouble();
             System.out.print("Enter an operator (+, -, *, /): ");
