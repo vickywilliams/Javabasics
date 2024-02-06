@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pattenStar",
+            "request": "launch",
+            "mainClass": "Pattern.pattenStar",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
             "name": "pattendig",
             "request": "launch",
             "mainClass": "Pattern.pattendig",
