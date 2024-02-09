@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RecursiveLoop",
+            "request": "launch",
+            "mainClass": "Recursive.RecursiveLoop",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "DupicateElement",
+            "request": "launch",
+            "mainClass": "TwoMatrix.DupicateElement",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "OddorEven",
+            "request": "launch",
+            "mainClass": "TwoMatrix.OddorEven",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "TwoarrayRevs",
+            "request": "launch",
+            "mainClass": "TwoMatrix.TwoarrayRevs",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Twoarray",
+            "request": "launch",
+            "mainClass": "TwoMatrix.Twoarray",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "pattarndirRevs",
+            "request": "launch",
+            "mainClass": "Pattern.pattarndirRevs",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Pattarndri",
+            "request": "launch",
+            "mainClass": "Pattern.Pattarndri",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "PatternDriangle",
+            "request": "launch",
+            "mainClass": "Pattern.PatternDriangle",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
             "name": "pattenStar",
             "request": "launch",
             "mainClass": "Pattern.pattenStar",
