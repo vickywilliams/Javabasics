@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SmalltoBiggest",
+            "request": "launch",
+            "mainClass": "Basics.SmalltoBiggest",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Ass",
+            "request": "launch",
+            "mainClass": "Oops.Ass",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Star",
+            "request": "launch",
+            "mainClass": "ClassWork.Star",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "PatternV",
+            "request": "launch",
+            "mainClass": "ClassWork.PatternV",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Arithmetic_Oper",
+            "request": "launch",
+            "mainClass": "ClassWork.Arithmetic_Oper",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Odd_Even",
+            "request": "launch",
+            "mainClass": "ClassWork.Odd_Even",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_Recursion",
+            "request": "launch",
+            "mainClass": "ClassWork.Reverse_Recursion",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "PatternA",
+            "request": "launch",
+            "mainClass": "ClassWork.PatternA",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "ClassWork.Palindrome",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "ClassWork.Fibonacci",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "ClassWork.Calculator",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "OddEvev",
+            "request": "launch",
+            "mainClass": "Recursive.OddEvev",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "DupliLoop",
+            "request": "launch",
+            "mainClass": "Recursive.DupliLoop",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
             "name": "RecursiveLoop",
             "request": "launch",
             "mainClass": "Recursive.RecursiveLoop",

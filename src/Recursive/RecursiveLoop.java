@@ -4,15 +4,15 @@ public class RecursiveLoop {
     public static void main(String[] args) {
         int[] arr = {34,56,78,65,43,45,32};
         int[] aseRes = asc(arr, 0, 0);
-        System.out.println("Asc");
+        System.out.print("Asc :");
         print(aseRes);
         int[] descRes = desc(arr, 0, 0);
-        System.out.println("Desc");
+        System.out.println( "Desc :");
         print(descRes);
     }
     public static void print(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
-            System.out.print(" "+arr[i] ); 
+            System.out.print("  "+arr[i] ); 
         }
         
     }
@@ -50,6 +50,7 @@ public class RecursiveLoop {
         }
         return arr;
     }
+
 }
         
     
