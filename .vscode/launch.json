@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Search",
+            "request": "launch",
+            "mainClass": "LinnerSearch.Search",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "oop",
+            "request": "launch",
+            "mainClass": "oop",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Search",
+            "request": "launch",
+            "mainClass": "LinnerSearch.Binary_Search",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Find_Number",
+            "request": "launch",
+            "mainClass": "LinnerSearch.Find_Number",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Star",
+            "request": "launch",
+            "mainClass": "Pattern.Star",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
             "name": "SmalltoBiggest",
             "request": "launch",
             "mainClass": "Basics.SmalltoBiggest",
