@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Bubble",
+            "request": "launch",
+            "mainClass": "sorting.Bubble",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "TwoPointer",
+            "request": "launch",
+            "mainClass": "LinnerSearch.TwoPointer",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
             "name": "Search",
             "request": "launch",
             "mainClass": "LinnerSearch.Search",
