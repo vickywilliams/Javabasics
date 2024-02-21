@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Whileloop_Pattern",
+            "request": "launch",
+            "mainClass": "ClassWork.Whileloop_Pattern",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_sape",
+            "request": "launch",
+            "mainClass": "ClassWork.Pattern_sape",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_Lsape",
+            "request": "launch",
+            "mainClass": "ClassWork.Pattern_Lsape",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Box_pattern",
+            "request": "launch",
+            "mainClass": "ClassWork.Box_pattern",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
             "name": "Bubble",
             "request": "launch",
             "mainClass": "sorting.Bubble",
