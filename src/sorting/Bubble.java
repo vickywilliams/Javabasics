@@ -6,23 +6,23 @@ public class Bubble {
         System.out.println("@@@@@@@ BUBBLE SORT @@@@@@@");
         int[] arr1 = bubblesort(arr.clone());
         for (int i = 0; i < arr1.length; i++) {
-            System.out.println(arr1[i]);
+            System.out.println(" " + arr1[i]);
             
         }
             System.out.println("@@@@@@@ SELETION SORT @@@@@@@");
             int[] arr2 = seletionsort(arr.clone());
             for (int i = 0; i < arr2.length; i++) {
-                System.out.println(arr2[i]);
+                System.out.println(  " " + arr2[i] );
                 
             }
             System.out.println("@@@@@@@ INSETION SORT @@@@@@@");
             int[] arr3 = seletionsort(arr.clone());
             for (int i = 0; i < arr3.length; i++) {
-                System.out.println(arr3[i]);
+                System.out.println(" " + arr3[i]);
                 
-            }
-    }
-     public static int[] insertionsort(int arr[] ) {
+            }      
+        }
+        public static int[] insertionsort(int arr[] ) {
         for (int i = 0; i < arr.length; i++) {
             int currenVal = arr[i];
             int j = i - 1;
@@ -59,8 +59,9 @@ public class Bubble {
                 arr[j] = temp;
             }
             }
-    }
+        }
         return arr;
-    
+    }
 }
-}
+\
+\

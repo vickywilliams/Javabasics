@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeNem",
+            "request": "launch",
+            "mainClass": "MathFunctions.PrimeNem",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "TaskS",
+            "request": "launch",
+            "mainClass": "MathFunctions.TaskS",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "MathExample",
+            "request": "launch",
+            "mainClass": "MathFunctions.MathExample",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "MathExample",
+            "request": "launch",
+            "mainClass": "Interger.MathExample",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "ExamplePro",
+            "request": "launch",
+            "mainClass": "Interger.ExamplePro",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Str_Classwork",
+            "request": "launch",
+            "mainClass": "String_Class.Str_Classwork",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "StringHw",
+            "request": "launch",
+            "mainClass": "String_Class.StringHw",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "pattern_Boxs",
+            "request": "launch",
+            "mainClass": "ClassWork.pattern_Boxs",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "MapTask",
+            "request": "launch",
+            "mainClass": "S_T_L.MapTask",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateChar",
+            "request": "launch",
+            "mainClass": "String_Class.DuplicateChar",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "StringDefaultMathods",
+            "request": "launch",
+            "mainClass": "String_Class.StringDefaultMathods",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "sorting.MergeSort",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_MadAngal",
+            "request": "launch",
+            "mainClass": "ClassWork.Pattern_MadAngal",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "RecusivePattern",
+            "request": "launch",
+            "mainClass": "ClassWork.RecusivePattern",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
             "name": "Whileloop_Pattern",
             "request": "launch",
             "mainClass": "ClassWork.Whileloop_Pattern",
