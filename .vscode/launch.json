@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CSLLMain",
+            "request": "launch",
+            "mainClass": "linkedlist.circular.singlelink.CSLLMain",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "DLLMain",
+            "request": "launch",
+            "mainClass": "linkedlist.DLLMain",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "SLLPersonMain",
+            "request": "launch",
+            "mainClass": "linkedlist.SLLPersonMain",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "MainDelete",
+            "request": "launch",
+            "mainClass": "linkedlist.MainDelete",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "linkedlist.Main",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "MainLL",
+            "request": "launch",
+            "mainClass": "linkedlist.MainLL",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "LLMain",
+            "request": "launch",
+            "mainClass": "linkedlist.LLMain",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "RecusiveEven",
+            "request": "launch",
+            "mainClass": "ClassWork.RecusiveEven",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListString",
+            "request": "launch",
+            "mainClass": "arraylist.ArrayListString",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListTopic",
+            "request": "launch",
+            "mainClass": "arraylist.ArrayListTopic",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
             "name": "PrimeNem",
             "request": "launch",
             "mainClass": "MathFunctions.PrimeNem",
