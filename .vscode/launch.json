@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FIFoutMain",
+            "request": "launch",
+            "mainClass": "tree.bfs.FIFoutMain",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "PreInPost_OrderMain",
+            "request": "launch",
+            "mainClass": "tree.PreInPost_OrderMain",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSDLLMain",
+            "request": "launch",
+            "mainClass": "linkedlist.doublelinkedlist.BubbleSDLLMain",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeMain",
+            "request": "launch",
+            "mainClass": "linkedlist.doublelinkedlist.EmployeeMain",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
             "name": "CSLLMain",
             "request": "launch",
             "mainClass": "linkedlist.circular.singlelink.CSLLMain",

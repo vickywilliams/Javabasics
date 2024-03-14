@@ -4,7 +4,9 @@ public class DLListPerson {
     String name;
     DLListPerson connecrNext=null;
     DLListPerson connectPrev=null;
-    public DLListPerson(String name){
-        this.name=name;
+    public DLListPerson nextPerson;
+    public Object data;
+    public DLListPerson(String name2){
+        this.name=name2;
     }
 }

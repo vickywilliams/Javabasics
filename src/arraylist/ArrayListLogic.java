@@ -6,12 +6,17 @@ import TwoMatrix.OddorEven;
 
 public class ArrayListLogic {
         private static final Boolean flase = null;
+        private static final int i = 0;
         ArrayList<String> array;
         public ArrayListLogic(ArrayList<String> arr){
         array = arr;
     }
     public ArrayList<Integer> oddArray(){
         return oddAndEven(true);
+    }
+    private ArrayList<Integer> oddAndEven(boolean b) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'oddAndEven'");
     }
     public ArrayList<Integer> evenArray(){
         return oddAndEven(flase);
@@ -26,6 +31,10 @@ public class ArrayListLogic {
         else if (!integer && !OddOrEven(array.get(i))) {
             res.add(array.get(i));
         }
+    }
+    private boolean oddAndEven(String string) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'oddAndEven'");
     }
 }
  

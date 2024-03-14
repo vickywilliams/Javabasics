@@ -16,7 +16,6 @@ public class SLLDelete {
             tail = singleLLNode;
         }
     }
-     @SuppressWarnings("null")
     public void positionToDelete( int position){
            SingleLLNode deleted = new SingleLLNode();
         deleted.setDeleteAtPosition(position);
