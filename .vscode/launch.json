@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinarySTreeMain",
+            "request": "launch",
+            "mainClass": "B_S_T.BinarySTreeMain",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "<unnamed_class$LinearSearch>",
+            "request": "launch",
+            "mainClass": "<unnamed_class$LinearSearch>",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Task",
+            "request": "launch",
+            "mainClass": "tree.dfs.Task",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "PatternY",
+            "request": "launch",
+            "mainClass": "Pattern.PatternY",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "Node",
+            "request": "launch",
+            "mainClass": "tree.Node",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
             "name": "FIFoutMain",
             "request": "launch",
             "mainClass": "tree.bfs.FIFoutMain",
