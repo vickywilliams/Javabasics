@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PatternFn",
+            "request": "launch",
+            "mainClass": "ClassWork.PatternFn",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
+            "name": "pattenDim",
+            "request": "launch",
+            "mainClass": "Pattern.pattenDim",
+            "projectName": "javaBasics_22476179"
+        },
+        {
+            "type": "java",
             "name": "BinarySTreeMain",
             "request": "launch",
             "mainClass": "B_S_T.BinarySTreeMain",

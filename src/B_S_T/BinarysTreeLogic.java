@@ -53,5 +53,37 @@ public class BinarysTreeLogic {
            return find(currentNode.right, value);
         }
     }
+
+    public BinarySTree delete(BinarySTree currentnode, int value) {
+        if (currentnode == null) {
+            System.out.println("Node with value " + value + " not found in the tree.");
+            return null;
+        }
+    
+        if (value < currentnode.value) {
+            currentnode.left = delete(currentnode.left, value);
+        } else if (value > currentnode.value) {
+            currentnode.right = delete(currentnode.right, value);
+        } else {
+                if (currentnode.left == null) {
+                return currentnode.right;
+            } else if (currentnode.right == null) {
+                return currentnode.left;
+            }
+                currentnode.value = minValue(currentnode.right);
+                currentnode.right = delete(currentnode.right, currentnode.value);
+        }
+        return currentnode;
+    }
+    
+    private int minValue(BinarySTree currentvalue) {
+        int minv = currentvalue.value;
+        while (currentvalue.left != null) {
+            minv = currentvalue.left.value;
+            currentvalue = currentvalue.left;
+        }
+        return minv;
+    }
+    
     
 }
